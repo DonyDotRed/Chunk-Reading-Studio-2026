@@ -16,3 +16,36 @@
 @media(max-width:900px){.sidebar{display:none}.topbar{height:65px;padding:0 19px}.main-content{padding:24px 17px 106px}.mode-strip{top:65px}.bottomnav{position:fixed;display:grid;grid-template-columns:repeat(5,1fr);bottom:0;left:0;right:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);padding:7px 4px calc(7px + env(safe-area-inset-bottom));box-shadow:0 -5px 18px #102a430f}.bottomnav button{border:0;background:transparent;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:3px;border-radius:9px;min-height:52px;padding:5px;color:var(--ink2);font-size:10px;font-weight:780}.bottomnav button .ico{font-size:19px}.bottomnav button.active{background:var(--accent-bg);color:var(--primary)}.login-feature{padding:48px 36px}.grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.focus-bar{bottom:78px}}
 @media(max-width:690px){.login-screen{display:flex;flex-direction:column}.login-feature{min-height:0;padding:35px 26px 28px}.login-feature h1{font-size:36px;margin:28px 0 12px}.login-feature h1 br{display:none}.login-feature .lead{font-size:13px;line-height:1.7}.login-stats{margin-top:23px;gap:16px}.login-stats b{font-size:22px}.login-stats small{font-size:10px}.login-right{padding:32px 24px 60px;min-height:390px}.login-form-box h2{font-size:25px}.topbar-label{font-size:12px}.topbar-actions{gap:4px}.topbar-actions .btn{padding:8px;min-width:36px}.topbar-actions .hide-mobile{display:none}.grid-cols-3{grid-template-columns:1fr;gap:9px}.grid-cols-2{grid-template-columns:1fr}.statbox{padding:12px 15px}.stat-icon{width:42px;height:42px;font-size:20px}.stat-number{font-size:22px}.hero{grid-template-columns:1fr;padding:25px 23px;min-height:245px}.hero-illus{display:none}.hero h1{font-size:30px}.hero p{font-size:12px}.lesson-heading{padding:19px 18px}.lesson-title{font-size:25px}.lesson-heading .meta-detail{margin-bottom:15px}.mode-btn{padding:10px 11px}.study-options{padding:12px 13px}.chunk-row{grid-template-columns:1fr;gap:3px;padding:13px 4px}.chunk-english{font-size:var(--font-reader)}.chunk-korean{font-size:calc(var(--font-reader)*.76);padding:0}.chunk-note{grid-column:1;margin-top:1px}.chunk-tool{opacity:1;position:static;justify-self:end}.paragraph-card{padding:18px 17px}.sentence-card{padding:17px 18px}.full-reading{padding:23px 20px}.reader-paragraph{margin-bottom:17px}.filter-head{align-items:stretch}.search-box{max-width:none;flex-basis:100%}.grid-cards{grid-template-columns:1fr}.section-heading{margin-top:25px}.section-heading h2{font-size:20px}.quiz-panel{padding:18px}.md-body{padding:16px 15px}.record-box{padding:14px}.settings-card{padding:18px}.focus-bar{flex-wrap:wrap;bottom:70px;padding:9px}.focus-bar .btn{min-width:85px}.main-content{padding-bottom:120px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+
+/* v1.1 · 30/60 lesson listening and follow-along reader */
+.listening-panel{padding:23px 26px;margin:17px 0 22px;box-shadow:none}
+.listening-head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}
+.listening-head h2{font-size:22px;margin:6px 0 4px}
+.listening-head .page-subtitle{margin-bottom:0}
+.listen-prefs{display:flex;align-items:center;gap:12px 22px;flex-wrap:wrap;margin:13px 0 15px;padding:11px 14px;background:var(--surface-soft);border:1px solid var(--line);border-radius:12px}
+.listen-prefs .checkline,.listen-inline .checkline{margin:3px 0;white-space:normal}
+.listen-select{display:flex;align-items:center;gap:9px;font-size:13px;color:var(--ink2)}
+.listen-select select{min-height:36px;padding:7px 9px}
+.playlist-buttons{display:flex;gap:9px;flex-wrap:wrap}
+.playlist-buttons .btn{flex:1 1 195px;white-space:normal;text-align:center;min-height:46px}
+.listen-caveat{font-size:11.5px;line-height:1.75;color:var(--muted);margin:14px 0 0}
+.listen-inline{border-top:1px solid var(--line);padding-top:7px;margin-top:4px}
+.listen-batch-inline{border-top:1px solid var(--line);padding-top:9px;margin-top:7px}
+.audio-dock{position:fixed;z-index:55;left:50%;transform:translateX(-50%);bottom:17px;width:min(680px,calc(100vw - 26px));padding:13px 17px 12px;background:var(--navy);color:white;border:1px solid #ffffff33;box-shadow:0 12px 50px #0005;border-radius:17px}
+.audio-dock-title{display:flex;align-items:center;justify-content:space-between;gap:10px;min-width:0}
+.audio-dock-title>div{min-width:0;flex:1}
+.audio-dock-title strong{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}
+.audio-dock-kicker{color:#8de4d7;font-size:11px;font-weight:750;margin-bottom:3px}
+.audio-dock-sub{color:#d6e4eb;font-size:11px;margin-top:5px}
+.audio-dock-percent{font-size:20px;font-weight:800;font-variant-numeric:tabular-nums}
+.audio-dock-meter{height:5px;background:#ffffff32;border-radius:10px;overflow:hidden;margin:10px 0}
+.audio-dock-meter span{display:block;height:100%;background:#64ddc5;transition:width .15s ease}
+.audio-dock-controls{display:flex;gap:7px;flex-wrap:wrap;justify-content:center}
+.audio-dock-controls .btn{background:#f6fafb;border-color:#ffffffcc;color:#153248}
+.audio-dock-controls .btn-primary{background:#61d9c5;color:#073c37;border-color:#61d9c5}
+.audio-playing .main-content{padding-bottom:225px}
+.active-speaking{background:var(--accent-bg)!important;border-color:var(--accent)!important;box-shadow:inset 3px 0 0 var(--accent);border-radius:10px}
+.chunk-row.active-speaking{padding-left:9px;padding-right:9px}
+.focus-single.active-speaking{padding:12px}
+@media(max-width:900px){.audio-dock{bottom:calc(72px + env(safe-area-inset-bottom))}.audio-playing .main-content{padding-bottom:275px}}
+@media(max-width:690px){.listening-panel{padding:17px 16px}.listening-head{flex-direction:column;gap:8px}.listening-head h2{font-size:19px}.listen-prefs{display:grid;gap:8px;padding:10px}.playlist-buttons .btn{flex-basis:100%}.audio-dock{padding:10px 11px 9px;border-radius:13px}.audio-dock-controls .btn{flex:1 1 auto;font-size:11px;padding:6px;min-height:36px}.audio-dock-title strong{font-size:12px}.audio-dock-kicker,.audio-dock-sub{font-size:10px}.audio-dock-percent{font-size:16px}.listen-batch-inline .btn{flex:1 1 135px;white-space:normal}}
