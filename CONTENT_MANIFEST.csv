@@ -1,0 +1,61 @@
+﻿lesson_id,track,title_en,title_ko,level,word_count,sentence_count,chunk_count,vocabulary_count,source_filename
+01,core,The Lemonade Stand That Lost Money,돈을 잃은 레모네이드 가게,고등학생 · CEFR B1,316,25,100,16,01_The_Lemonade_Stand_That_Lost_Money.md
+02,core,Thirty Days of Small Starts,작은 시작의 30일,고등학생 · CEFR B1,285,30,98,12,02_Thirty_Days_of_Small_Starts.md
+03,core,My Grandfather's Repair Shop,할아버지의 수리점,고등학생 · CEFR B1,267,25,81,12,03_My_Grandfathers_Repair_Shop.md
+04,core,A Letter to My Younger Self,어린 나에게 보내는 편지,고등학생 · CEFR B1,261,32,87,12,04_A_Letter_to_My_Younger_Self.md
+05,core,The Night Before the Market,장터 전날 밤,고등학생 · CEFR B1,256,24,74,12,05_The_Night_Before_the_Market.md
+06,core,Salary or Startup?,월급이냐 창업이냐?,고등학생 · CEFR B1,254,33,77,12,06_Salary_or_Startup.md
+07,core,The Fox Who Waited for a Perfect Plan,완벽한 계획을 기다린 여우,고등학생 · CEFR B1,303,30,93,12,07_The_Fox_Who_Waited_for_a_Perfect_Plan.md
+08,core,Why I Stopped Saying Someday,"내가 ""언젠가""라는 말을 그만둔 이유",고등학생 · CEFR B1,296,31,97,12,08_Why_I_Stopped_Saying_Someday.md
+09,core,How to Talk to Your First Customer,첫 손님과 대화하는 법,고등학생 · CEFR B1,278,29,84,12,09_How_to_Talk_to_Your_First_Customer.md
+10,core,The Ten-Dollar Experiment,10달러 실험,고등학생 · CEFR B1,318,31,100,12,10_The_Ten-Dollar_Experiment.md
+11,core,Every Complaint Is a Clue,모든 불평은 단서다,고등학생 · CEFR B1+,356,31,120,12,11_Every_Complaint_Is_a_Clue.md
+12,core,The Bakery a Neighborhood Built,동네가 만든 빵집,고등학생 · CEFR B1+,325,29,98,12,12_The_Bakery_a_Neighborhood_Built.md
+13,core,Forty Years Behind the Counter,계산대 뒤의 40년,고등학생 · CEFR B1+,337,27,103,12,13_Forty_Years_Behind_the_Counter.md
+14,core,The Broken Bicycle Business,고장 난 자전거 사업,고등학생 · CEFR B1+,309,30,107,12,14_The_Broken_Bicycle_Business.md
+15,core,Walking Into the Room Anyway,그래도 방 안으로 걸어 들어가기,고등학생 · CEFR B1+,333,36,112,12,15_Walking_Into_the_Room_Anyway.md
+16,core,Where Good Ideas Come From,좋은 아이디어는 어디서 오는가,고등학생 · CEFR B1+,347,29,108,12,16_Where_Good_Ideas_Come_From.md
+17,core,Two Ways to Spend a Saturday,토요일을 보내는 두 가지 방법,고등학생 · CEFR B1+,314,26,97,12,17_Two_Ways_to_Spend_a_Saturday.md
+18,core,The Customer Who Said No Three Times,세 번 거절한 손님,고등학생 · CEFR B1+,362,29,108,12,18_The_Customer_Who_Said_No_Three_Times.md
+19,core,The Student Council Fundraiser,학생회 모금 행사,고등학생 · CEFR B1+,301,24,96,12,19_The_Student_Council_Fundraiser.md
+20,core,What a Notebook Taught Me,공책 한 권이 가르쳐 준 것,고등학생 · CEFR B1+,327,29,101,12,20_What_a_Notebook_Taught_Me.md
+21,core,If I Had Asked Sooner,조금 더 일찍 물었더라면,고등학생 상위 · CEFR B2,353,29,111,12,21_If_I_Had_Asked_Sooner.md
+22,core,The Myth of the Overnight Success,하룻밤 성공이라는 신화,고등학생 상위 · CEFR B2,378,29,113,12,22_The_Myth_of_the_Overnight_Success.md
+23,core,Should Schools Teach Entrepreneurship?,학교는 창업 교육을 해야 하는가?,고등학생 상위 · CEFR B2,398,27,137,12,23_Should_Schools_Teach_Entrepreneurship.md
+24,core,Failure Is Just Data,실패는 데이터일 뿐이다,고등학생 상위 · CEFR B2,453,33,151,12,24_Failure_Is_Just_Data.md
+25,core,The Real Price of a Cup of Coffee,커피 한 잔의 진짜 가격,고등학생 상위 · CEFR B2,374,26,123,12,25_The_Real_Price_of_a_Cup_of_Coffee.md
+26,core,Reading the Numbers,숫자 읽기,고등학생 상위 · CEFR B2,366,27,127,12,26_Reading_the_Numbers.md
+27,core,"Trust Is Slow, Then Sudden","신뢰는 느리게, 그러다 갑자기",고등학생 상위 · CEFR B2,421,35,133,12,27_Trust_Is_Slow_Then_Sudden.md
+28,core,"Small Teams, Big Problems","작은 팀, 큰 문제",고등학생 상위 · CEFR B2,407,39,145,12,28_Small_Teams_Big_Problems.md
+29,core,A Speech to New Graduates,졸업생들에게 보내는 연설,고등학생 상위 · CEFR B2,365,37,121,12,29_A_Speech_to_New_Graduates.md
+30,core,What I Know Now,지금 내가 아는 것,고등학생 상위 · CEFR B2,448,37,155,12,30_What_I_Know_Now.md
+U01,university,Lessons from a Failed Lemonade Stand,실패한 레모네이드 가판대에서 얻은 교훈 (회고적 분석),대학생 · CEFR C1,606,29,188,12,U01_Lessons_from_a_Failed_Lemonade_Stand.md
+U02,university,"Small Actions, Durable Habits","작은 행동, 오래가는 습관 (연구는 첫 30일에 대해 무엇을 말하는가)",대학생 · CEFR C1,602,28,203,12,U02_Small_Actions_Durable_Habits.md
+U03,university,What Cannot Be Written Down,글로 적을 수 없는 것 (작은 수리점의 암묵지),대학생 · CEFR C1,601,32,206,12,U03_What_Cannot_Be_Written_Down.md
+U04,university,The Limits of Advice,조언의 한계 (확신의 정도와 근거의 일치),대학생 · CEFR C1,594,35,208,12,U04_The_Limits_of_Advice.md
+U05,university,Planning Under Uncertainty,불확실성 속에서 계획하기,대학생 · CEFR C1,593,37,201,12,U05_Planning_Under_Uncertainty.md
+U06,university,Security or Autonomy?,안정이냐 자율이냐? (월급과 창업의 비교 논증),대학생 · CEFR C1,571,28,207,12,U06_Security_or_Autonomy.md
+U07,university,Perfectionism and Delay,완벽주의와 미루기 (개념 분석),대학생 · CEFR C1,564,30,203,12,U07_Perfectionism_and_Delay.md
+U08,university,From Intention to Action,의도에서 행동으로 (실행 의도의 메커니즘),대학생 · CEFR C1,583,30,201,12,U08_From_Intention_to_Action.md
+U09,university,Interviewing Early Customers,초기 고객 인터뷰 (연구 방법 절 쓰기),대학생 · CEFR C1,577,29,195,12,U09_Interviewing_Early_Customers.md
+U10,university,Testing Ideas Cheaply,아이디어를 싸게 시험하기 (정량적 결과 보고),대학생 · CEFR C1,551,28,190,12,U10_Testing_Ideas_Cheaply.md
+U11,university,Complaints as Data,데이터로서의 불평 (분류 체계 세우기),대학생 · CEFR C1,552,27,196,12,U11_Complaints_as_Data.md
+U12,university,Co-Creation in a Neighborhood Business,동네 가게의 공동 창조 (사례 연구 구조),대학생 · CEFR C1,567,27,205,12,U12_Co-Creation_in_a_Neighborhood_Business.md
+U13,university,Reporting What Others Say,남의 말을 전하는 법 (보고 동사와 출처 표시),대학생 · CEFR C1,570,31,197,12,U13_Reporting_What_Others_Say.md
+U14,university,Signals of Trust in Used Goods,중고품 시장의 신뢰 신호 (정보 비대칭과 신호 보내기),대학생 · CEFR C1,564,30,213,12,U14_Signals_of_Trust_in_Used_Goods.md
+U15,university,Anxiety and Performance,불안과 수행 (정의와 연구 종합),대학생 · CEFR C1,560,26,208,12,U15_Anxiety_and_Performance.md
+U16,university,Where Ideas Come From,아이디어는 어디서 오는가 (세 갈래 연구의 종합),대학생 · CEFR C1,550,25,202,12,U16_Where_Ideas_Come_From.md
+U17,university,Planning Versus Experimentation,계획 대 실험 (인과 논리와 효과 논리의 비교),대학생 · CEFR C1,570,29,213,12,U17_Planning_Versus_Experimentation.md
+U18,university,Persistence and Its Limits,끈기와 그 한계 (서사를 논증으로),대학생 · CEFR C1,558,30,204,12,U18_Persistence_and_Its_Limits.md
+U19,university,Evaluating a Fundraiser,모금 행사 평가 (평가 보고서와 권고),대학생 · CEFR C1,557,30,202,12,U19_Evaluating_a_Fundraiser.md
+U20,university,Observation as a Habit of Mind,사고 습관으로서의 관찰 (관찰에서 일반화로),대학생 · CEFR C1,550,28,194,12,U20_Observation_as_a_Habit_of_Mind.md
+U21,university,Counterfactual Thinking,"반사실적 사고 (""그때 ~했더라면""의 심리학)",대학생 · CEFR C1,555,26,201,12,U21_Counterfactual_Thinking.md
+U22,university,Survivorship Bias and Success Stories,생존자 편향과 성공담 (논리적 오류 분석),대학생 · CEFR C1,551,28,205,12,U22_Survivorship_Bias_and_Success_Stories.md
+U23,university,Entrepreneurship in the Curriculum,교육과정 속의 창업 교육 (정책 논증),대학생 · CEFR C1,548,27,215,12,U23_Entrepreneurship_in_the_Curriculum.md
+U24,university,Failure as Evidence,증거로서의 실패 (가설 검증의 논리),대학생 · CEFR C1,552,27,197,12,U24_Failure_as_Evidence.md
+U25,university,The Unit Economics of a Café,카페의 단위 경제 (고밀도 명사화),대학생 · CEFR C1,541,28,206,12,U25_The_Unit_Economics_of_a_Cafe.md
+U26,university,Interpreting Small Data,작은 데이터 해석하기 (도표 서술과 해석상 주의점),대학생 · CEFR C1,547,30,207,12,U26_Interpreting_Small_Data.md
+U27,university,The Asymmetry of Trust,신뢰의 비대칭 (이론적 설명),대학생 · CEFR C1,555,26,209,12,U27_The_Asymmetry_of_Trust.md
+U28,university,Communication in Small Teams,작은 팀의 소통 (사례 분석과 권고),대학생 · CEFR C1,557,27,211,12,U28_Communication_in_Small_Teams.md
+U29,university,The Rhetoric of Commencement Speeches,졸업 연설의 수사학 (수사 분석),대학생 · CEFR C1,546,27,217,12,U29_The_Rhetoric_of_Commencement_Speeches.md
+U30,university,A Synthesis,종합 (증거가 말해 줄 수 있는 것과 없는 것),대학생 · CEFR C1,595,25,222,12,U30_A_Synthesis.md
